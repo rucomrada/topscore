@@ -389,21 +389,21 @@ header .navbar {
 }
 
 .Modern-Slider .item-1 .img-fill {
-	background-image: url(https://raw.githubusercontent.com/rucomrada/topscore/refs/heads/main/assets/images/WQ1.jpg);
+	background-image: url(https://raw.githubusercontent.com/rucomrada/topscore/refs/heads/main/assets/images/WQA1.jpg);
 }
 
 .Modern-Slider .item-2 .img-fill {
-	background-image: url(https://raw.githubusercontent.com/rucomrada/topscore/refs/heads/main/assets/images/WQ2.jpg);
+	background-image: url(https://raw.githubusercontent.com/rucomrada/topscore/refs/heads/main/assets/images/WQA2.jpg);
 }
 
 .Modern-Slider .item-3 .img-fill {
-	background-image: url(https://raw.githubusercontent.com/rucomrada/topscore/refs/heads/main/assets/images/WQ3.jpg);
+	background-image: url(https://raw.githubusercontent.com/rucomrada/topscore/refs/heads/main/assets/images/WQA3.jpg);
 }
 .Modern-Slider .item-4 .img-fill {
-	background-image: url(https://raw.githubusercontent.com/rucomrada/topscore/refs/heads/main/assets/images/WQ4.jpg);
+	background-image: url(https://raw.githubusercontent.com/rucomrada/topscore/refs/heads/main/assets/images/WQA4.jpg);
 }
 .Modern-Slider .item-5 .img-fill {
-	background-image: url(https://raw.githubusercontent.com/rucomrada/topscore/refs/heads/main/assets/images/WQ5.jpg);
+	background-image: url(https://raw.githubusercontent.com/rucomrada/topscore/refs/heads/main/assets/images/WQA5.jpg);
 }
 
 .Modern-Slider .NextArrow{
@@ -1436,4 +1436,5 @@ footer .contact-form button.filled-button:hover {
 .serv-heading h2 {
 	color: #FFF;
 }
+
 
