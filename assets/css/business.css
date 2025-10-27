@@ -233,8 +233,8 @@ header {
 	position: absolute;
 	z-index: 99999;
 	width: 100%;
-	background-color: transparent!important;
-	height: 60px;
+	background-color: rgba(255,255,255,0.4); /* transparent!important; */
+	height: 80px;
 	-webkit-transition: all 0.3s ease-in-out 0s;
     -moz-transition: all 0.3s ease-in-out 0s;
     -o-transition: all 0.3s ease-in-out 0s;
@@ -1445,6 +1445,7 @@ footer .contact-form button.filled-button:hover {
 .serv-heading h2 {
 	color: #FFF;
 }
+
 
 
 
