@@ -411,6 +411,10 @@ header .navbar {
 	background-image: url(https://raw.githubusercontent.com/rucomrada/topscore/refs/heads/main/assets/images/WQA5.jpg);
 }
 
+.Modern-Slider .item-6 .img-fill {
+	background-image: url(https://raw.githubusercontent.com/rucomrada/topscore/refs/heads/main/assets/images/WQA6.jpg);
+}
+
 .Modern-Slider .NextArrow{
   position:absolute;
   top:50%;
@@ -1441,6 +1445,7 @@ footer .contact-form button.filled-button:hover {
 .serv-heading h2 {
 	color: #FFF;
 }
+
 
 
 
