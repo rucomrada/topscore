@@ -1120,7 +1120,6 @@ footer .contact-form button.filled-button:hover {
 	/* background-image: url(../images/page-heading-bg.jpg); */
 	background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
     url('https://raw.githubusercontent.com/rucomrada/topscore/refs/heads/main/assets/images/TOPSCORE_page_header_bg.jpg') center/cover no-repeat;
-}
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1696,6 +1695,7 @@ footer .contact-form button.filled-button:hover {
 	  padding: 8px 20px;
 	}
   }
+
 
 
 
