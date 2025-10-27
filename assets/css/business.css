@@ -1606,8 +1606,8 @@ footer .contact-form button.filled-button:hover {
   }
 
   .lightbox-nav:hover {
-	background: #f5a425;
-	border-color: #f5a425;
+	background: #5B333B; /* #f5a425; */
+	border-color: #5B333B; /* #f5a425; */
 	transform: translateY(-50%) scale(1.1);
   }
 
@@ -1693,6 +1693,7 @@ footer .contact-form button.filled-button:hover {
 	  padding: 8px 20px;
 	}
   }
+
 
 
 
