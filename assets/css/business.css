@@ -302,7 +302,7 @@ header .navbar {
 	font-size: 15px;
 	font-weight: 300;
 	letter-spacing: 0.5px;
-	color: #ffaa00;
+	color: #ff6f00;
 	transition: all 0.5s;
 	margin-top: 5px;
 }
@@ -1445,6 +1445,7 @@ footer .contact-form button.filled-button:hover {
 .serv-heading h2 {
 	color: #FFF;
 }
+
 
 
 
