@@ -263,8 +263,11 @@
         const GITHUB_REPO = 'rucomrada/topscore';
         const GALLERY_PATH = 'assets/gallery';
         const BRANCH = 'main';
-        const API_URL = `https://api.github.com/repos/${GITHUB_REPO}/contents/${GALLERY_PATH}`;
-        const RAW_URL = `https://raw.githubusercontent.com/${GITHUB_REPO}/${BRANCH}/${GALLERY_PATH}`;
+        // const API_URL = `https://api.github.com/repos/${GITHUB_REPO}/contents/${GALLERY_PATH}`;
+        // const RAW_URL = `https://raw.githubusercontent.com/${GITHUB_REPO}/${BRANCH}/${GALLERY_PATH}`;
+
+        const API_URL = `../assets/gallery/`;
+        const RAW_URL = `../assets/gallery/`;
 
         // State
         let images = [];
@@ -343,7 +346,8 @@
           images = knownImages.map(filename => ({
             name: filename,
             download_url: `${RAW_URL}/${filename}`,
-            html_url: `https://github.com/${GITHUB_REPO}/blob/${BRANCH}/${GALLERY_PATH}/${filename}`
+            // html_url: `https://github.com/${GITHUB_REPO}/blob/${BRANCH}/${GALLERY_PATH}/${filename}`
+            html_url: `../assets/gallery/`
           }));
 
           if (images.length === 0) {
