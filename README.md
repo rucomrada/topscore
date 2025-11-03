@@ -13,6 +13,7 @@ The site is organized into multiple sections and standalone pages such as:
 - **Home Page** – brief introduction and hero section.
 - **About Page** – company background and mission.
 - **Services Page** – list of consulting services offered.
+- **Gallery Page** – Picture moments for Topscore Consultants.
 - **Contact Page** – contact details and inquiry form.
 
 ---
